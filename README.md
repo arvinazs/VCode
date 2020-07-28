@@ -32,9 +32,9 @@ Brackets and parentheses are an inseparable part many programming languages. In 
 Snippets are shorthands in an editor. So instead of writing import React from 'react';, you can type imr and press Tab to expand this snippet. Similarly, clg becomes console.log.
 There exists a lot of snippets for all sorts of things: Javascript(or any other language), React, Redux, Angular, Vue, Jest. I personally find Javascript snippets really useful since I work mostly with JS.
 Some good snippet extensions are —
-•	JavaScript (ES6) code snippets
-•	React-Native/React/Redux snippets for es6/es7
-•	React Standard Style code snippets
+##### •	JavaScript (ES6) code snippets
+##### •	React-Native/React/Redux snippets for es6/es7
+##### •	React Standard Style code snippets
 
  #### 4 - REST Client
 As a web developer, we often need to work with REST APIs. For examining the URLs and checking the responses, tools like Postman are used. But why have a different app when your editor can easily do the same task. Welcome REST Client. It allows you to send HTTP request and view the response in Visual Studio Code directly.
