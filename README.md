@@ -45,4 +45,4 @@ Since the advent of React and the traction it has gained in the last few years, 
  #### 6 - SVG Viewer
 SVG stands for scalable vector graphics, and SVG files are text files that store vector images for the web. If you open an SVG file in a text editor, it typically displays the textual content of these files. If you are working on editing these files directly, you may wish to view how such files are rendered by Visual Studio.
 
-
+![alt text](https://github.com/arvinazs/VCode/blob/master/0_IeBiqx1ZCE-yaskV.gif?raw=true)
