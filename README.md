@@ -41,3 +41,8 @@ As a web developer, we often need to work with REST APIs. For examining the URLs
 
  #### 5 - Auto Close Tag and Auto Rename Tag
 Since the advent of React and the traction it has gained in the last few years, HTML-like syntax in the form of JSX is all the rage now. We again have to code with tags JavaScript. Any web developer you would tell you that it is a pain to type the tags. In most cases, we need a tool that can quickly and easily generate tags and their children. Emmet is a really good example of this already built into VSCode. However, sometimes, you do just want something simple and concise. Such as an auto tag closer, which generates the closing pair of a tag as you type the opening pair. And when you change that same tag, the closing tag automatically gets changed. These two extensions do just that.
+
+ #### 6 - SVG Viewer
+SVG stands for scalable vector graphics, and SVG files are text files that store vector images for the web. If you open an SVG file in a text editor, it typically displays the textual content of these files. If you are working on editing these files directly, you may wish to view how such files are rendered by Visual Studio.
+
+
